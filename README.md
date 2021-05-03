@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Odeyale</h1>
-<h3 align="center">I am a Software Engineering student 👨🏾‍💻  reside Canada 🇨🇦 passionate about solving with technology and creating different solutions.</h3>
+<h3 align="center">I am a Software Engineering student 👨🏾‍💻  residing in Canada 🇨🇦 passionate about solving problems with technology and creating different solutions.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=findjamesd" alt="findjamesd" /></a> </p>
 
