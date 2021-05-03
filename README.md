@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Odeyale</h1>
-<h3 align="center">I am a Software Engineer in Ontario, Canada {canadian flag}, passionate about solving with technology and creating different solutions.</h3>
+<h3 align="center">I am a Software Engineer in Ontario, Canada ![flag-round-250](https://user-images.githubusercontent.com/24612945/116934107-81259c00-ac32-11eb-968d-c74165c4af2b.png), passionate about solving with technology and creating different solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=findjamesd&label=Profile%20views&color=0e75b6&style=flat" alt="findjamesd" /> </p>
 
