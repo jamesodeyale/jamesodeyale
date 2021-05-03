@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Odeyale</h1>
-<h3 align="center">I am a Software Engineer in Ontario, Canada  passionate about solving with technology and creating different solutions.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=findjamesd&label=Profile%20views&color=0e75b6&style=flat" alt="findjamesd" /> </p>
+<h3 align="center">I am a Software Engineering student 👨🏾‍💻  reside Canada 🇨🇦 passionate about solving with technology and creating different solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=findjamesd" alt="findjamesd" /></a> </p>
 
@@ -30,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=findjamesd&show_icons=true&locale=en" alt="findjamesd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=findjamesd&" alt="findjamesd" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=findjamesd&label=Profile%20views&color=0e75b6&style=flat" alt="findjamesd" /> </p>
