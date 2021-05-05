@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Spotify-clone](https://github.com/findjamesd/spotify-clone)
 
-- 🌱 I’m working on becoming a better developer everyday and gaining mastry in the tech I have in my toolbox
+- 🌱 I’m working on becoming a better developer everyday and gaining mastery in the tech I have in my toolbox
 
 - 👨‍💻 All of my projects are available at [www.findjamesd.com](www.findjamesd.com)
 
