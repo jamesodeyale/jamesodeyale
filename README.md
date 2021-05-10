@@ -12,7 +12,7 @@
 
 - 🌱 I’m working on becoming a better developer everyday and gaining mastery in the tech I have in my toolbox
 
-- 👨‍💻 All of my projects are available at [www.findjamesd.com](www.findjamesd.com)
+- 👨‍💻 All of my projects are available at [www.findjames.dev](www.findjames.dev)
 
 - ✌️ I love sports 🏀 &nbsp;⚽️ &nbsp;🏈 and lifting heavy 🏋🏽‍♀️
 
