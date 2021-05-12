@@ -8,7 +8,7 @@
 
 <p><samp>Connect with me here and on LinkedIn, I love meeting new people and collaborating with smart people to make great products</samp></p>
 
-- 🔭 I’m currently working on [Spotify-clone](https://github.com/findjamesd/spotify-clone)
+- 🔭 I’m currently working on [Listen.Me](https://github.com/findjamesd/listen.me)
 
 - 🌱 I’m working on becoming a better developer everyday and gaining mastery in the tech I have in my toolbox
 
