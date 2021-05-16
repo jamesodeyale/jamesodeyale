@@ -5,7 +5,6 @@
 <a href="mailto:jamesodeyale01@gmail.com"><img src="https://camo.githubusercontent.com/0e42132ec6af43c090fe27636052781702a0f98f5039547b7a6b685610e4e161/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d2532333138373746322e7376673f267374796c653d666c61742d737175617265266c6f676f3d676d61696c266c6f676f436f6c6f723d776869746526636f6c6f723d303731413243266c696e6b3d6d61696c746f3a6d7572696c6c6f2e70657a7a756f6c40676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-%231877F2.svg?&amp;style=flat-square&amp;logo=gmail&amp;logoColor=white&amp;color=071A2C&amp;link=mailto:murillo.pezzuol@gmail.com" style="max-width:100%;"></a></p>
 
 <p><samp>I am James Odeyale, a Software Engineer 👨🏾‍💻 residing in Canada 🇨🇦, passionate about solving problems with technology and creating different solutions.</samp></p>
-
 <p><samp>Connect with me here and on LinkedIn, I love meeting new people and collaborating with smart people to make great products</samp></p>
 
 - 🔭 I’m currently working on [Listen.Me](https://github.com/findjamesd/listen.me)
