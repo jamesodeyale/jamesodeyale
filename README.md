@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [www.findjames.dev](https://findjames.dev/)
 
-- ✌️ I love sports 🏀 &nbsp;⚽️ &nbsp;🏈 and I lifting heavy 🏋🏽‍♀️
+- ✌️ I love sports 🏀 &nbsp;⚽️&nbsp;🏈 and I lifting heavy 🏋🏽‍♀️
 
 - Fav quote: "Nothing can take the place of persistence; talent will not, genius will not; education alone will not; persistence and determination alone are omnipotent"
 
