@@ -7,7 +7,7 @@
 <p><samp>I am James Odeyale, a Software Engineer 👨🏾‍💻 residing in Canada 🇨🇦, passionate about solving problems with technology and creating different solutions.</samp></p>
 <p><samp>Connect with me here and on LinkedIn, I love meeting new people and collaborating with smart people to make great products</samp></p>
 
-- 🔭 I’m currently working on [Listen.Me](https://github.com/findjamesd/listen.me)
+- 🔭 I’m currently working on [Listen.Me](https://github.com/jamesodeyale/listen.me)
 
 - 🌱 I’m working on becoming a better developer everyday and gaining mastery in the tech I have in my toolbox
 
