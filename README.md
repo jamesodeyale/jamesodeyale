@@ -1,4 +1,3 @@
-<h1 align="center">Looking for James Odeyale? 🕵️‍♂️ </h1>
 <h2>👋🏾 Hi there, my name is James Odeyale.</h2>
 <h4>🎓 Born and raised in Nigeria 🇳🇬. Currently residing in Canada 🇨🇦. </h4>
 <p><a href="https://www.linkedin.com/in/james-odeyale/" rel="nofollow"> <img src="https://camo.githubusercontent.com/8a04793bfe1755f63539f56d99da2aa3fb5aeec26b0dd7f374dedacf4c8500fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d776869746526636f6c6f723d303731413243266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6d7570657a7a756f6c2f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white&amp;color=071A2C&amp;link=https://www.linkedin.com/in/mupezzuol/" style="max-width:100%;"></a>
