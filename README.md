@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [VibeMe](https://github.com/jamesodeyale/VibeMe), a digital product to help use music as a mood modifier
 
-- ✨ In my free time, I like weight train 🏋🏾, play basketball 🏀 , bike ride 🚴🏾 and create videos on my YouTube channel documenting my software engineering journey ▶️. 
+- ✨ In my free time, I like to weight train 🏋🏾, play basketball 🏀 , bike ride 🚴🏾 and create videos on my YouTube channel documenting my software engineering journey ▶️. 
 
 - 📖 My best quote is “Nothing can take the place of persistence; talent will not, genius will not; education alone will not; persistence and determination alone are omnipotent”
 
